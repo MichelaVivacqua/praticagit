@@ -8,4 +8,6 @@ public class Conflitto {
         this.che=che;
         this.succedeora=succedeora;
     }
-}
+
+    public void stampatutto (){ System.out.println(vediamo+che+succedeora);
+}}
