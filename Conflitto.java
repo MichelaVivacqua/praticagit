@@ -6,6 +6,6 @@ public class Conflitto {
     public  Conflitto (String vediamo, String che, String succedeora){
         this.vediamo=vediamo;
         this.che=che;
-        this.succedeora=succederaa;
+        this.succedeora=succedeora;
     }
 }
