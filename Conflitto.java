@@ -9,5 +9,5 @@ public class Conflitto {
         this.succedeora=succedeora;
     }
 
-    public void stampatutto (){ System.out.println(vediamo+che+succedeora);
+    public void stampatutto (){ System.out.println(vediamo+ " "+che+ " "+succedeora);
 }}
